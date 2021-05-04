@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RySchnauf/nicksfishinginfo/issues"
   },
-  "homepage": "https://github.com/RySchnauf/nicksfishinginfo#readme"
+  "homepage": "https://github.com/RySchnauf/nicksfishinginfo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
